@@ -1,13 +1,14 @@
 h1 {
-  color: blue;
+  color: #008B87;
   text-align: center;
 }
 
 li {
-  color: red;
+  color: #008B87;
+  font-style: italic;
 }
 
-p. intro {
-  width:50%
-  font-style:italic;
+p.about {
+  width: 50%;
+  font-style: italic;
 }
